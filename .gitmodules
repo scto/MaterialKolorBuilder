@@ -1,3 +1,3 @@
 [submodule "library"]
 	path = library
-	url = https://github.com/jordond/MaterialKolor.git
+	url = https://github.com/scto/MaterialKolor
